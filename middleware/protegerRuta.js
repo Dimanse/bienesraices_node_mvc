@@ -1,4 +1,4 @@
-import jwt from 'jsonwebToken'
+import jwt from 'jsonwebtoken'
 import { Usuario } from '../model/index.js'
 
 
